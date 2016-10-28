@@ -1,0 +1,28 @@
+{
+  "name": "StickySort",
+  "authors": [
+    "Terry Mun <http://terrymun.com/>"
+  ],
+  "description": "",
+  "main": [
+        "jquery.stickysort.min.js",
+        "css/stickysort.css",
+        "css/styles.css",
+        "css/normalize.css"
+  ],
+  "dependencies": {
+    "jquery-throttle-debounce": "https://github.com/cowboy/jquery-throttle-debounce.git#v1.1"
+  },
+  "moduleType": [
+    "node"
+  ],
+  "license": "http://tympanus.net/codrops/licensing/",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
