@@ -6,9 +6,7 @@
   "description": "",
   "main": [
         "jquery.stickysort.min.js",
-        "css/stickysort.css",
-        "css/styles.css",
-        "css/normalize.css"
+        "css/stickysort.css"
   ],
   "dependencies": {
     "jquery-throttle-debounce": "https://github.com/diegofreitas/jquery-throttle-debounce.git#v1.3"
