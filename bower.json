@@ -11,7 +11,7 @@
         "css/normalize.css"
   ],
   "dependencies": {
-    "jquery-throttle-debounce": "https://github.com/diegofreitas/jquery-throttle-debounce.git#v1.2"
+    "jquery-throttle-debounce": "https://github.com/diegofreitas/jquery-throttle-debounce.git#v1.3"
   },
   "moduleType": [
     "node"
